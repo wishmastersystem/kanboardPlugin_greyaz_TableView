@@ -30,7 +30,7 @@ If the plugin "metaMagik" is installed, your custom field can be loaded via the 
 The fields display in the table by the sequence in this array:
 */
 $configs["TABLE_FIELDS"] = array(
-    "::TASK_ID", "::TITLE", "::CATEGORY", "::SWIMLANE", "::COLUMN", "::ASSIGNEE", "::TAG", "::START_DATE", "::DUE_DATE", "::REFERENCE"
+    "::PRIORITY", "::TASK_ID", "::TITLE", "::CATEGORY", "::SWIMLANE", "::COLUMN", "::ASSIGNEE", "::TAG", "::START_DATE", "::DUE_DATE",
 );
 
 /*
